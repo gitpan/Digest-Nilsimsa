@@ -2,7 +2,7 @@ package Digest::Nilsimsa;
 
 require DynaLoader;
 
-$VERSION = 0.05;
+$VERSION = 0.06;
 @ISA = qw/DynaLoader/;
 
 bootstrap Digest::Nilsimsa $VERSION;

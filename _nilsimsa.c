@@ -39,7 +39,6 @@
 #include <config.h>
 #endif
 
-#include <dirent.h>
 #include <sys/stat.h>
 #include <unistd.h>
 #include "nilsimsa.h"
